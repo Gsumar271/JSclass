@@ -1,0 +1,2 @@
+# JSclass
+JavaScript class conversion
